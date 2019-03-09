@@ -1,0 +1,367 @@
+{
+    "id": 1,
+    "name": "Angular Quiz",
+    "description": "ANGULAR QUIZ",
+    "questions": [
+        {
+         
+            "id": 1010,
+            "name": "When was the Angular 5 released?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "25 Jan. 2017",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "4 Dec. 2016",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "1 Nov. 2017",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "25 Jan. 2018",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {   "id": 1011,
+            "name": "Who is called as Father of AngularJS?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Brad Green",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Misko Hevery",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Igor Minor",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Brian Ford",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Which of the following directive is used to initialize an angular app?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "ng-app",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "ng-controller",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "ng-model",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "What are various possible prefixes such as 'ng-' using which Angular directives (for example, ng-app) can be defined?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "'ng-', 'data-ng-', 'ng:', 'x-ng-'",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "'ng-', 'data-ng-','x-ng-'",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "'ng-', 'data-ng-', 'ng:'",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "'ng-'",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": "What angular function is used to manually start up an angular application?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "angular.element",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "angular.bootstrap",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "angular.copy",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of the above",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": "Which components can be injected as a dependency in AngularJS?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "constant",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "value",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Application Module",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "factory",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "Directives can be applied to which all element type?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Element",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Attribute",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Comment",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "All of the above",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": "Which angular module is loaded by default?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "ng-app",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "ng",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "new",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "my-app",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": "Which angular function is used to wrap a raw DOM element or HTML string as a jQuery element?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": " angular.bootstrap",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "angular.bind",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "angular.element",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "angular.copy",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": " AngularJS was developed in ______",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "2009",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "2006",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "2011",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "2008",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}

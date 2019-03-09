@@ -1,0 +1,374 @@
+{
+    "id": 2,
+    "name": "React Quiz ",
+    "description": "C# and .Net Quiz (contains C#, .Net Framework, Linq, etc.)",
+    "config": {
+        "shuffleQuestions": true,
+        "showPager": false,
+        "allowBack": true,
+        "autoMove": true
+    },
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Who created react js",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Igor Ford",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Misko Hevery ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Kurt Angle",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": " Jordan Walke",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "What is react",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Language Infrastructure",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "CLR",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "JavaScript library",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Just language",
+                    "isAnswer": false
+                }
+              
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Which of the following API is a MUST for every ReactJS component?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "GetInitialState",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Render",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "RenderComponent",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "State",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "React components are typically written in",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "jsx",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "ts",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "js",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "XHP",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": "If–else statements cannot be used in",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "jsx",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "js.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "ts",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "XMH",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": "Applying the React architecture to native ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "ios applications",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "All of them",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Android application",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Windows application",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "What are the features of React? ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Virtual DOM",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Server-side rendering",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Uni-directional data flow",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "All of them",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": "Which of the following concepts is/are key to ReactJS?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Component-oriented design",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Both of the above",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Event delegation model",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of them",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": "ReactJS focuses on which of the following part when considering MVC?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "M (Model)",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "V (View)",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "C (Controller)",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of them",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "Which of the following needs to be updated to achieve dynamic UI updates?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "State",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Props",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "None of them",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "All of them",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}
